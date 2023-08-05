@@ -1,0 +1,1 @@
+# SnapDiary_MERN_APP_frontend
